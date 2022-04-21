@@ -14,7 +14,7 @@ console.log("Hello");
 
 const app = async () => {
 
-  let imageBase64 = base64_encode_png('./img/content-test.png');
+  let imageBase64 = base64_encode_png('./img/my-card.png');
 
   let image = {
     "name": "image",
