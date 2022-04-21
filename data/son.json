@@ -1,0 +1,14 @@
+{
+  "title": [
+    { "name": "anh-chi-va-cac-chau", "value": "Anh chị và các cháu" },
+    { "name": "anh-chi-va-chau", "value": "Anh chị và cháu" },
+    { "name": "chi-va-cac-chau", "value": "Chị và các cháu"},
+    { "name": "hana-yeu-dau", "value": "Hana yêu dấu"},
+    { "name": "Linda-va-kei-yeu-dau", "value": "Kei and Linda Yêu Dấu"},
+    { "name": "Kenneth-va-Hailey-yeu-dau", "value": "Kenneth and Hailey yêu dấu"},
+    { "name": "this-is-a-test", "value": "This is a test with very long text for invitation"}
+  ],
+  "target": {
+    
+  }
+}

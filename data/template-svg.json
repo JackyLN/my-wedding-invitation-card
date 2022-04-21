@@ -1,0 +1,44 @@
+{
+  "name": "svg",
+  "type": "element",
+  "value": "",
+  "attributes": {
+    "id": "mysvg",
+    "xmlns": "http://www.w3.org/2000/svg",
+    "xmlns:xlink": "http://www.w3.org/1999/xlink",
+    "width": 1117,
+    "height": 1855,
+    "viewBox": "0 0 1117 1855",
+    "version": "1.1",
+    "xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "xmlns:cc": "http://creativecommons.org/ns#",
+    "xmlns:dc": "http://purl.org/dc/elements/1.1/"
+  },
+  "children": [
+    {
+      "name": "defs",
+      "type": "element",
+      "value": "",
+      "attributes": {},
+      "children": [
+        {
+          "name": "style",
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "type": "text/css"
+          },
+          "children": [
+            {
+              "name": "",
+              "type": "text",
+              "value": ".test { font: bold 40px Dancing Script; fill: rgb(181, 110, 82); }",
+              "attributes": {},
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

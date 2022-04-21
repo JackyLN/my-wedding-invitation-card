@@ -1,0 +1,16 @@
+{
+  "title": [
+    { "name": "anh-chi-va-gia-dinh", "value": "Anh chị và gia đình" },
+    { "name": "hai-ban-va-gia-dinh", "value": "Hai bạn và gia đình" },
+    { "name": "ban-va-gia-dinh", "value": "Bạn và gia đình" },
+    { "name": "chi-va-gia-dinh", "value": "Chị và gia đình" },
+    { "name": "em-va-gia-dinh", "value": "Em và gia đình" },
+    { "name": "anh-va-gia-dinh", "value": "Anh và gia đình" },
+    { "name": "ong-ba-va-gia-dinh", "value": "Ông bà và gia đình" },
+    { "name": "ong-va-gia-dinh", "value": "Ông và gia đình" },
+    { "name": "hai-em-va-gia-dinh", "value": "Hai em và gia đình"}
+  ],
+  "target": {
+    "con": "con"
+  }
+}
